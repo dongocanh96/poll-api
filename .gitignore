@@ -1,2 +1,3 @@
-pollsapi/polls/migrations/
+**/migrations/*
 pollsapi/db.sqlite3
+*.sqlite3
